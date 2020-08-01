@@ -1,0 +1,12 @@
+[package]
+name = "lsapp"
+version = "0.1.0"
+authors = ["Carson Myers <carson@myers.se>"]
+edition = "2018"
+
+[dependencies]
+clap = "3.0.0-beta"
+eyre = "^0.4"
+color-eyre = "^0.3"
+thiserror = "1.0"
+shellexpand = "2.0"
